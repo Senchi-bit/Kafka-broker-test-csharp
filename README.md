@@ -9,6 +9,14 @@ You can download it from the official website:
 
 [Apache Kafka](https://kafka.apache.org/)
 
+Alternative way:
+You should download docker image bitnami/kafka:latest.
+
+```bash
+  cd Dotnet-test
+  docker-compose up -d
+```
+
 For run Producer: 
 ```bash
   cd Dotnet-test
